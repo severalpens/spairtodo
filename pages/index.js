@@ -23,7 +23,7 @@ export default function Home({ initialTodos, user }) {
                     <div className="flex items-center justify-between py-4  ">
                         <div className="flex justify-between items-center">
                             <div className="text-2xl font-bold text-gray-800 md:text-3xl">
-                                <a href="#">My Todos</a>
+                            <a href="https://severalpens.com">Severalpens Todos</a>
                             </div>
                         </div>
                         <div className="flex">
